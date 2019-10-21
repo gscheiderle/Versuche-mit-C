@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571079629 source:c:\xampp\htdocs\getraenke_automat\getraenke_automat_erweitert\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
